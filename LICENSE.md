@@ -1,4 +1,4 @@
-# 
+# Exclusivo ImageForge instalador. Descarga e instala con control de versiones y instalación en un clic — rápido, seguro y fácil de usar.
 
 
 
